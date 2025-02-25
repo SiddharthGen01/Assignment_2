@@ -14,9 +14,9 @@ export interface ApplicationData {
     rejected_at: Date | null;
     location_ids: string[] | null;
     status: string | null;
-    questionnaires: Questionnaries[] | null;
+    questionnaires?: Questionnaries[] | null;
     source: string | null;
     created_at: Date | null;
     updated_at: Date | null;
-    documents: Documents[] | null;
+    documents?: Documents[] | null;
 }

@@ -88,7 +88,7 @@
 
 ```json
 {
-    "id": "JOB_APPLICATION-6-711",
+    "id": "Sk9CX0FQUExJQ0FUSU9OLTYtNzExX19DQU5ESURBVEUtNi0x",
     "candidate_id": "CANDIDATE-6-1",
     "job_id": "R-00100",
     "interview_stage": {
@@ -102,28 +102,8 @@
     "rejected_at": null,
     "location_ids": null,
     "status": "INTERVIEW",
-    "questionnaires": [
-        {
-            "id": null,
-            "answers": null
-        }
-    ],
     "source": "LinkedIn",
     "created_at": "2024-04-30T13:54:13.903-07:00",
-    "updated_at": "2025-02-11T21:52:12.546-08:00",
-    "documents": [
-        {
-            "id": null,
-            "name": null,
-            "path": null,
-            "type": null,
-            "category": null,
-            "category_id": null,
-            "contents": null,
-            "created_at": null,
-            "updated_at": null,
-            "file_format": null
-        }
-    ]
+    "updated_at": "2025-02-11T21:52:12.546-08:00"
 }
 ```
